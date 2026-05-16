@@ -16,7 +16,7 @@ collectées via l'API Open-Meteo.
 
 ## Contenu
 - `Projet_Marche_Immobilier_de_Haute_Tarentaise.ipynb` : Notebook d'analyse complet (EDA, modélisation Random Forest)
-- `Presentation_PB(2).pbix` : Dashboard Power BI (5 pages). Screenshots visualisables via dossier `Screenshots-PowerBI`
+- `Presentation_PB.pbix` : Dashboard Power BI (5 pages). Screenshots visualisables via dossier `Screenshots-PowerBI`
 - `Rapport_Marche_Immobilier_Haute_Tarentaise.pdf` : Rapport structuré (méthodologie, résultats, recommandations)
 - `PP-Marche-Immobilier-de-Haute-Tarentaise.pdf` : Support de soutenance orale
 - `Data/` : Données DVF et DPE nettoyées + scoring agrégé par station
