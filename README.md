@@ -1,6 +1,7 @@
 # immobilier-ski-savoie
 
-# Projet final de formation Data Analyst - Analyse du marché immobilier des stations de ski de Haute-Tarentaise
+# Projet final de formation Data Analyst 
+# Analyse du marché immobilier des stations de ski de Haute-Tarentaise
 
 ## Objectif
 Identifier les stations offrant les meilleurs profils de valorisation immobilière 
